@@ -14,6 +14,11 @@ and open the template in the editor.
         // put your code here
         echo "ceci est un test qwerty";
         echo "ceci est un test qwerty";
+        echo "ceci est un test qwerty";
+        echo "ceci est un test qwerty";
+        echo "ceci est un test qwerty";
+        echo "ceci est un test qwerty";
+        echo "ceci est un test qwerty";
         ?>
     </body>
 </html>

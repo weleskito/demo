@@ -16,7 +16,16 @@ and open the template in the editor.
         echo "ceci est un test qwerty";
         echo "ceci est un test qwerty";
         echo "ceci est un test qwerty";
-        echo "ceci est un test azerty";
+        echo "ceci est un test qwerty";
+        echo "ceci est un test qwerty";
+        echo "ceci est un test qwerty";
+        echo "ceci est un test qwerty";
+        echo "ceci est un test qwerty";
+        echo "ceci est un test qwerty";
+        echo "ceci est un test qwerty";
+        echo "ceci est un test qwerty";
+        echo "ceci est un test qwerty";
+        echo "ceci est un test qwerty";
      
         ?>
     </body>

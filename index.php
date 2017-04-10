@@ -13,6 +13,8 @@ and open the template in the editor.
         <?php
         // put your code here
         echo "ceci est un test azerty";
+        echo "ceci est un test qwerty";
+        
         ?>
     </body>
 </html>

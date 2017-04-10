@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
-        echo "ceci est un test";
+        echo "ceci est un test qwerty";
         ?>
     </body>
 </html>

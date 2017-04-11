@@ -23,14 +23,14 @@ and open the template in the editor.
         echo "ceci est un test aqwxsz";
         echo "ceci est un test aqwxsz";
         echo "ceci est un test aqwxsz";
-        echo "ceci est un test Wele";
-        echo "ceci est un test Wele";
-        echo "ceci est un test Wele";
-        echo "ceci est un test Wele";
-        echo "ceci est un test Wele";
-        echo "ceci est un test Wele";
-        echo "ceci est un test Wele";
-        echo "ceci est un test Wele";
+        echo "ceci est un test Hammat";
+        echo "ceci est un test Hammat";
+        echo "ceci est un test Hammat";
+        echo "ceci est un test Hammat";
+        echo "ceci est un test Hammat";
+        echo "ceci est un test Hammat";
+        echo "ceci est un test Hammat";
+        
         
         ?>
     </body>

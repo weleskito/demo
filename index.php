@@ -13,27 +13,7 @@ and open the template in the editor.
         <?php
         // put your code here
         echo "ceci est un test qwerty";
-        echo "ceci est un test qwerty";
-        echo "ceci est un test qwerty";
-        echo "ceci est un test qwerty";
-        echo "ceci est un test qwerty";
-        echo "ceci est un test qwerty";
-        echo "ceci est un test aqwxsz";
-        echo "ceci est un test aqwxsz";
-        echo "ceci est un test aqwxsz";
-        echo "ceci est un test aqwxsz";
-        echo "ceci est un test aqwxsz";
-        echo "ceci est un test test";
-        echo "ceci est un test test";
-        echo "ceci est un test test";
-        echo "ceci est un test test";
-        echo "ceci est un test test";
-        echo "ceci est un test Hammat";
-        echo "ceci est un test Hammat";
-        echo "ceci est un test Hammat";
-        echo "ceci est un test Hammat";
-        echo "ceci est un test Hammat";
-        echo "ceci est un test Hammat";
+     
         
         
         ?>
